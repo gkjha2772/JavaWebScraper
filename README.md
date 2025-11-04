@@ -1,5 +1,3 @@
----
-
 # KYC_Assignment
 
 ## 📌 Project Overview
