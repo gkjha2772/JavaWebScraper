@@ -1,4 +1,4 @@
-# KYC_Assignment
+# Java Web Scraper
 
 ## 📌 Project Overview
 
