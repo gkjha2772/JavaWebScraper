@@ -117,7 +117,7 @@ output.json
 ## 👤 Author
 
 **Name:** *Gautam Kumar Jha*
-**Project:** KYC Data Scraping Assignment
+**Project:** Data Scraping Assignment
 
 ---
 
